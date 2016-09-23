@@ -12,7 +12,8 @@ You can currently modify:
 - console_info.xml   : You can change the order and/or remove the entries
 - system_settings.xml: You can change the order and/or remove the entries
 
-Spoofed/modded files go to ux0:app/FLOW10015
+Spoofed/modded files go to ux0:app/FLOW10015.
+
 If you want to replace the original Settings application, you can edit the path in app.db to 'ux0:app/FLOW10015/eboot.bin'.
 
 
