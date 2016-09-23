@@ -9,8 +9,8 @@ As this is only a POC release, not many things can be done yet.
 You can currently modify:
 - version.txt        : You can input a custom UTF8 string with max 28 characters.
 - mac.txt            : You can input a custom UTF8 string with max 18 characters.
-- console_info.xml   : You can change the order/or remove the entries
-- system_settings.xml: You can change the order/or remove the entries
+- console_info.xml   : You can change the order and/or remove the entries
+- system_settings.xml: You can change the order and/or remove the entries
 
 If you want to replace the original Settings application, you can edit the path in app.db to 'ux0:app/FLOW10015/eboot.bin'.
 
