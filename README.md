@@ -19,3 +19,5 @@ If you want to replace the original Settings application, you can edit the path 
 
 ## To developers ##
 A list of nids is included at 'nids.txt' where they can all be redirected as shown in the POC plugin.
+
+Included in the src is only the patcher plugin 'flow.suprx', not the tool to generate the eboot.bin.
